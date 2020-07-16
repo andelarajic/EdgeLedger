@@ -135,6 +135,17 @@ color: #fff;
 
         }
 
+        .flex-items {
+        width: 900px;
+        height: 600px;
+
+        
+            
+    
+            
+
+        }
+
         .flex-grid .row {
             display: flex;
             flex-wrap: wrap;
@@ -143,7 +154,7 @@ color: #fff;
 
         .flex-grid .column {
             flex: 25%;
-            max-width: 25%;
+            max-width: 100%;
             padding: 0 4px;
 
         }
